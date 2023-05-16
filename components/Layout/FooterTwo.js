@@ -117,7 +117,7 @@ export default function FooterTwo() {
 							<p>
 								&copy; 2022{" "}
 								<Link href="#">
-									<a>wallet Theme</a>
+									<a>wallet</a>
 								</Link>{" "}
 								All Rights Reserved.
 							</p>
